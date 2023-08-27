@@ -1,0 +1,34 @@
+Hi there, Fraytooler.
+
+If you're reading this... First of all, I'm impressed that you actually cared. 
+Second of all, I know that this means you're at least a LITTLE interested in 
+taking up the Dan mantle. I have no need to continue this creation myself, as
+Dan (Despite being a really cool character that I use every so often) isn't a
+character that I'm interested in developing any longer.
+
+I have other stuff to attend to. Like school, Ryu, other projects unrelated to
+Fraymakers... And I prefer on working on just one character at a time, really.
+So I'm giving him away to the people that DO want to see him become a reality,
+People who are real Dan fanatics unlike me. Maybe you fit into that descrip-
+tion? I don't know, I'm typing all of this on August 26th and for all I know
+The bloke (or lass) reading this could've downloaded this in DECEMBER.
+
+So if you think you're up for the challenge, go ahead.
+
+I've given you:
+* A Few Animations (Mostly movement)
+* Edited Stats
+* A CSS Render
+* Fighter Description
+* The Sprite Sheet
+* The link to the place where I've found the CVS sprites
+  (https://spritedatabase.net/game/862)
+* And permission to edit the already implemented sprites however you please
+
+A good headstart for your first (or next) project, right? I hope that you will
+Try to make this character the best character you can possibly make. Not 'cause
+Benefits me, but because I believe in you and your potential.
+
+Good luck out there!
+Sincerest regards,
+ObeliskWithLimbs.
